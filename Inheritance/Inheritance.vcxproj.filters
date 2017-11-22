@@ -21,12 +21,36 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="A.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="B.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Inheritance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="A.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="B.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
